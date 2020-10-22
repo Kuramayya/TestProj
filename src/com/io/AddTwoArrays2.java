@@ -8,6 +8,7 @@ public class AddTwoArrays2 {
 		int A[] = {2,4,6,2};
 		int B[] = {3,7,4};
 		System.out.println(Arrays.toString(addSum(A,B)));
+		//Added one more check as we discussed.
 	}
 
 	private static int[] addSum(int[] a, int[] b) {
