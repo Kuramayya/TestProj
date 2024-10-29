@@ -7,6 +7,7 @@ public class MulArray {
 	public static void main(String[] args) {
 		int A[] = {1,2,3,4};
 		System.out.println(Arrays.toString(mulArray(A)));
+		System.out.println(Arrays.toString(mulArray(A)));
 	}
 
 	private static int[] mulArray(int[] a) {
